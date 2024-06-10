@@ -1,0 +1,90 @@
+
+        :root {
+            --background-color: white;
+            --text-color: black;
+            --link-color: blue;
+            --link-hover-color: darkblue;
+            --padding: 20px;
+            --margin: 20px;
+            --border-radius: 10px;
+            --box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: var(--background-color);
+            color: var(--text-color);
+            margin: var(--margin);
+        }
+        pre {
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            background-color: var(--background-color);
+            color: var(--text-color);
+            padding: var(--padding);
+            border-radius: var(--border-radius);
+            box-shadow: var(--box-shadow);
+            font-size: 1rem;
+            line-height: 1.5;
+        }
+        a {
+            text-decoration: none;
+            color: var(--link-color);
+        }
+        a:hover {
+            text-decoration: underline;
+            color: var(--link-hover-color);
+        }
+        .theme-switcher {
+            margin-bottom: var(--margin);
+        }
+        .theme-switcher label {
+            margin-right: 10px;
+            font-size: 1.2rem;
+        }
+        select#theme {
+            padding: 5px;
+            font-size: 1rem;
+            border-radius: var(--border-radius);
+            box-shadow: var(--box-shadow);
+        }
+        h1 {
+            font-size: 2rem;
+            margin-bottom: var(--margin);
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+            font-size: 1.2rem;
+        }
+        /* Light Theme */
+        body.light {
+            --background-color: white;
+            --text-color: black;
+            --link-color: blue;
+            --link-hover-color: darkblue;
+        }
+        /* Dark Theme */
+        body.dark {
+            --background-color: #121212;
+            --text-color: #ffffff;
+            --link-color: #bb86fc;
+            --link-hover-color: #3700b3;
+        }
+        /* Dracula Theme */
+        body.dracula {
+            --background-color: #282a36;
+            --text-color: #f8f8f2;
+            --link-color: #bd93f9;
+            --link-hover-color: #ff79c6;
+        }
+        /* Peachpuff Theme */
+        body.peachpuff {
+            --background-color: peachpuff;
+            --text-color: #333333;
+            --link-color: #ff4500;
+            --link-hover-color: #d2691e;
+        }
+        

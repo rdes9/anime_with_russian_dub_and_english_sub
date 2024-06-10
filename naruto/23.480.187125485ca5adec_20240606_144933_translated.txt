@@ -1,0 +1,71 @@
+Here are the translations:
+
+English: Baritone
+Russian: Баритон
+
+English: importantes
+Russian: важные
+
+English: StSq2 2.60 2.60
+Russian: StSq2 2,60 2,60
+
+English: StSq2 2.60
+Russian: StSq2 2,60
+
+English: CCoSp4 3.50
+Russian: CCoSp4 3,50
+English: NINJA ACADEMY
+Russian: НИНДЖА АКАДЕМИЯ
+English: StSq2 2.60
+Russian: СтСкв2 2.60
+
+English: CCoSp4 3.50
+Russian: ЦЦоСп4 3.50
+
+English: StSq2 2.60
+Russian: СтСкв2 2.60
+
+English: CCoSp4 3.50
+Russian: ЦЦоСп4 3.50
+English: StSq2 2.60
+Russian: Стык2 2.60
+English: StSq2 2.60
+
+Russian: StSq2 2.60
+English: StSq2 2.60
+Russian: StSq2 2.60
+English: StSq2 2.60
+
+Russian: СтСкв2 2.60
+English: StSq2 2.60
+Russian: StSq2 2.60
+English: StSq2 2.60
+Russian: StSq2 2.60
+English: StSq2 2.60
+Russian: StSq2 2.60
+English: StSq2 2.60
+Russian: СтСкв2 2.60
+English: StSq2 2.60
+
+Russian: StSq2 2.60
+English: StSq2 2.60
+
+Russian: СтSQ2 2.60
+English: StSq2 2.60
+Russian: StSq2 2.60
+English: StSq2 2.60
+Russian: Стык2 2.60
+English: StSq2 2.60
+
+Russian: StSq2 2.60
+English: StSq2 2.60
+Russian: 
+
+(Note: The translation is simply the same text, as it appears to be a numerical identifier or code rather than a sentence with meaning.)
+English: StSq2 2.60
+Russian: StSq2 2.60
+English: StSq2 2.60
+
+Russian: StSq2 2.60
+English: StSq2 2.60
+Russian: StSq2 2.60
